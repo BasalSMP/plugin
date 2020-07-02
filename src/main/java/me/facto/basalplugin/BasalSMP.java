@@ -1,5 +1,7 @@
 package me.facto.basalplugin;
 
+import co.aikar.commands.PaperCommandManager;
+import me.facto.basalplugin.command.WhitelistCommand;
 import me.facto.basalplugin.redis.WhitelistAddListener;
 import me.facto.basalplugin.redis.WhitelistRemoveListener;
 import org.bukkit.plugin.java.JavaPlugin;
@@ -20,6 +22,9 @@ public class BasalSMP extends JavaPlugin {
 
         new WhitelistAddListener(this.jedisCluster);
         new WhitelistRemoveListener(this.jedisCluster);
+
+        PaperCommandManager manager = new PaperCommandManager(this);
+        manager.registerCommand(new WhitelistCommand());
 
         getLogger().info("Plugin has been loaded!");
 
