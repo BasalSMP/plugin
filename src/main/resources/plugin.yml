@@ -1,0 +1,4 @@
+name: BasalSMP
+version: 1.0.0
+main: me.facto.basalplugin.BasalSMP
+api-version: 1.16
