@@ -18,7 +18,7 @@ public class WhitelistAddListener {
         this.jedisCluster.subscribe(new JedisPubSub() {
             @Override
             public void onMessage(String channel, String message) {
-                if (channel.equals("whitelistAdd")) {
+                if (channel.equals("whitelistAddition")) {
                     // assume that the message is the player's uuid
                     Player player = Bukkit.getPlayer(message);
                     if (player != null && !player.isWhitelisted()) {
