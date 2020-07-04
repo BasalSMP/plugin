@@ -1,10 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="337c17dd-6eb1-4318-8483-0739aad3903a" name="Default Changelist" comment="whitelist command 1">
-      <change afterPath="$PROJECT_DIR$/src/main/java/me/facto/basalplugin/command/WhitelistCommand.java" afterDir="false" />
+    <list default="true" id="337c17dd-6eb1-4318-8483-0739aad3903a" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/me/facto/basalplugin/BasalSMP.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/me/facto/basalplugin/BasalSMP.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,30 +82,46 @@
       <option name="project" value="LOCAL" />
       <updated>1593663707838</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="start of whitelist command">
+      <created>1593668755177</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1593668755177</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Initial commit (basic redis listener and plugin)" />
     <MESSAGE value="pubsub listens to whitelistAddition channel" />
-    <option name="LAST_COMMIT_MESSAGE" value="pubsub listens to whitelistAddition channel" />
+    <MESSAGE value="start of whitelist command" />
+    <option name="LAST_COMMIT_MESSAGE" value="start of whitelist command" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1593662345359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593662345359" />
-    <state x="591" y="134" key="CommitChangelistDialog2" timestamp="1593668613181">
+    <state x="591" y="134" key="CommitChangelistDialog2" timestamp="1593668752856">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="591" y="134" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593668613181" />
-    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1593662626436">
+    <state x="591" y="134" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593668752856" />
+    <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1593759366355">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="740" y="281" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593662626436" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1593662823673">
+    <state x="740" y="281" key="FileChooserDialogImpl/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593759366355" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1593668766721">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593662823673" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593668766721" />
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1593759345373">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="656" y="363" key="com.intellij.ide.util.TipDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593759345373" />
+    <state x="758" y="363" key="git4idea.merge.GitPullDialog" timestamp="1593843004420">
+      <screen x="0" y="0" width="1920" height="1080" />
+    </state>
+    <state x="758" y="363" key="git4idea.merge.GitPullDialog/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593843004420" />
   </component>
 </project>
