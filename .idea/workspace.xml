@@ -96,7 +96,14 @@
       <option name="project" value="LOCAL" />
       <updated>1593843150558</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="better maven pom configuration">
+      <created>1593850616634</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1593850616634</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -104,17 +111,18 @@
     <MESSAGE value="pubsub listens to whitelistAddition channel" />
     <MESSAGE value="start of whitelist command" />
     <MESSAGE value="publish on push to master" />
-    <option name="LAST_COMMIT_MESSAGE" value="publish on push to master" />
+    <MESSAGE value="better maven pom configuration" />
+    <option name="LAST_COMMIT_MESSAGE" value="better maven pom configuration" />
   </component>
   <component name="WindowStateProjectService">
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser" timestamp="1593662345359">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state x="765" y="249" key="#com.intellij.ide.util.MemberChooser/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593662345359" />
-    <state x="591" y="134" key="CommitChangelistDialog2" timestamp="1593843148762">
+    <state x="591" y="134" key="CommitChangelistDialog2" timestamp="1593850615165">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="591" y="134" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593843148762" />
+    <state x="591" y="134" key="CommitChangelistDialog2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593850615165" />
     <state x="740" y="281" key="FileChooserDialogImpl" timestamp="1593759366355">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
@@ -135,10 +143,10 @@
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
     <state width="1860" height="292" key="GridCell.Tab.0.right/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593850548964" />
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1593843154290">
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2" timestamp="1593850621257">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
-    <state x="552" y="272" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593843154290" />
+    <state x="552" y="272" key="Vcs.Push.Dialog.v2/-1920.0.1920.1080/0.0.1920.1080@0.0.1920.1080" timestamp="1593850621257" />
     <state x="656" y="363" key="com.intellij.ide.util.TipDialog" timestamp="1593759345373">
       <screen x="0" y="0" width="1920" height="1080" />
     </state>
